@@ -1,6 +1,8 @@
 #Project-wide
 .Ds_Store
 
+
+*.env
 # Logs
 logs
 *.log
